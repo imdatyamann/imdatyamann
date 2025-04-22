@@ -34,8 +34,8 @@
 ### 📫 Bana Ulaşın
 
 - 📧 E-posta: yamanimdat@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/imdatyaman](https://linkedin.com/in/imdatyaman)  
-- 🧑‍💻 GitHub: [github.com/imdatyaman](https://github.com/imdatyaman)
+- 💼 LinkedIn: [[linkedin.com/in/imdatyaman](https://linkedin.com/in/imdatyaman)  ](https://www.linkedin.com/in/imdat-yaman-5521191b8/)
+- 🧑‍💻 GitHub: [[github.com/imdatyaman](https://github.com/imdatyaman)](https://github.com/imdatyamann)
 
 ---
 
